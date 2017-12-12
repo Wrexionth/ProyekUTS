@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Crater
+  - Mud
+  - Rock
+  - Platform
+  - Portal
+  - Fall
+  - story1
+  - Floatform
+  - Enemy
+  - Weapon
+  - Health
+  - EnemyWeapon
+  - Checkpoint
+  - Boss
+  - Trigger
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Platform
+  - Player
+  - Enemy
+  - Floatform
+  - Bullet
+  - Health
+  - Edge
+  - DeadEnemy
+  - Boss
+  - PlayerHit
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

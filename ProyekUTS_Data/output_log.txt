@@ -1,0 +1,36 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+d3d11: D3D_FEATURE_LEVEL_11_1 not-recognized (only 11.0 runtime installed?)
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 630M (ID=0xde9)
+    Vendor:   NVIDIA
+    VRAM:     2000 MB
+    Driver:   22.21.13.8494
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Tugas\Kuliah\GameDev\Proyek\ProyekUTS\ProyekUTS_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Tugas\Kuliah\GameDev\Proyek\ProyekUTS\ProyekUTS_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Tugas\Kuliah\GameDev\Proyek\ProyekUTS\ProyekUTS_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Tugas\Kuliah\GameDev\Proyek\ProyekUTS\ProyekUTS_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Tugas\Kuliah\GameDev\Proyek\ProyekUTS\ProyekUTS_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Tugas\Kuliah\GameDev\Proyek\ProyekUTS\ProyekUTS_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Tugas\Kuliah\GameDev\Proyek\ProyekUTS\ProyekUTS_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Tugas\Kuliah\GameDev\Proyek\ProyekUTS\ProyekUTS_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Tugas\Kuliah\GameDev\Proyek\ProyekUTS\ProyekUTS_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading D:\Tugas\Kuliah\GameDev\Proyek\ProyekUTS\ProyekUTS_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: D:\Tugas\Kuliah\GameDev\Proyek\ProyekUTS\ProyekUTS_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\Tugas\Kuliah\GameDev\Proyek\ProyekUTS\ProyekUTS_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.271 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.388782 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.129033 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1438.
+Total: 0.708964 ms (FindLiveObjects: 0.118229 ms CreateObjectMapping: 0.052135 ms MarkObjects: 0.529978 ms  DeleteObjects: 0.007799 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 251c -> priority: 1 
+  Thread -> id: 2260 -> priority: 1 
